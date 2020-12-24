@@ -37,7 +37,7 @@ Don't miss your chance to beautify your server by adding a little extra to it. I
   <h1 align="left">Credits</h1>
 </p>
 
-| Programming   | Communication| Others..  |
+| Programming   | Communication| Others...  |
 | ------------- |:-------------:| -----:|
-| @MR.TOBYTE#1111| labogosita#1635 | DOTAK#2332 |
-|Pijon#1415 |      ───────────────| ──────────   |
+| **@MR.TOBYTE#1111**| @labogosita#1635 | @DOTAK#2332 |
+|@Pijon#1415 |      ───────────────| ──────────   |
