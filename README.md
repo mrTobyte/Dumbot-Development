@@ -10,5 +10,5 @@ These commands have been created in order to bring peace, calm, laughter and hel
 
 Here is the list of commands that the dumbot is equipped with!
 <p align="left">
-  <img width="500" src="https://cdn.discordapp.com/attachments/780755544616861696/791777586388140052/unknown.png">
+  <img width="400" src="https://cdn.discordapp.com/attachments/780755544616861696/791777586388140052/unknown.png">
 </p>
