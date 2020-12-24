@@ -13,6 +13,13 @@ Here is the list of commands that the dumbot is equipped with!
   <img width="400" src="https://cdn.discordapp.com/attachments/780755544616861696/791777586388140052/unknown.png">
 </p>
 
-As you can see, the prefix for using Dumbot is **"="**.                                                                                                                  
-It can be changed according to your wishes. However, be careful not to exceed two characters! Beyond that you will risk to forget it ^^'.
+As you can see, the prefix for using Dumbot is __**"="**__.                                                                                                                  
+It can be changed according to your wishes. However, be careful not to exceed two characters! Beyond that you will risk to forget it. ㇱ
 
+Dumbot is available on all your platforms. Whether it's on your computers, laptops, phones or many others. Of course, you have to be Discord! 
+
+##How to invite Dumbot?
+You're probably wondering how to invite Dumbot on your servers to take full advantage of him?
+It's very simple! If you are on a server that already has this Bot, just type **"=invite "** and Dumbot will give you two invitation links. You will then just have to follow the steps listed by this link and that's it!
+
+**Otherwise, just click here :** [Click Here](https://discord.com/oauth2/authorize?client_id=786972690405523518&scope=bot&permissions=8200)!
