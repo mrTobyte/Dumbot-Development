@@ -12,3 +12,7 @@ Here is the list of commands that the dumbot is equipped with!
 <p align="left">
   <img width="400" src="https://cdn.discordapp.com/attachments/780755544616861696/791777586388140052/unknown.png">
 </p>
+
+As you can see, the prefix for using Dumbot is **"="**.
+It can be changed according to your wishes. However, be careful not to exceed two characters! Beyond that you will risk to forget it ^^'.
+
