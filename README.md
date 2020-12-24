@@ -43,6 +43,6 @@ Don't miss your chance to beautify your server by adding a little extra to it. I
 |@Pijon#1415 |      ───────────────| ──────────   |
 
 <p align="center">
-  <h6 align="center">Dumbot© | =help</h6>
-  <align="center">By Dumbot-Team >
+  <h5 align="center">Dumbot© | =help</h5>
+  <h6 align="center">By Dumbot-Team</h6>
 </p>
