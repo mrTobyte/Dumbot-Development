@@ -41,3 +41,7 @@ Don't miss your chance to beautify your server by adding a little extra to it. I
 | ------------- |:-------------:| -----:|
 | **@MR.TOBYTE#1111**| @labogosita#1635 | @DOTAK#2332 |
 |@Pijon#1415 |      ───────────────| ──────────   |
+
+<p align="center">
+  <align="center">**Dumbot© | =help >
+</p>
