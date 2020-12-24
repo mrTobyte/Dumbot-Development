@@ -1,6 +1,6 @@
 <p align="center">
   <img width="300" src="https://cdn.discordapp.com/attachments/493337287338491915/788825810777145395/unknown_1.png">
-  <h1 align="center">Dumbot Development</h1>
+  <h1 align="center">Dumbot© Development</h1>
 </p>
 
 Hello and welcome to **Dumbot**'s presentation page!
@@ -26,3 +26,9 @@ You're probably wondering how to invite Dumbot on your servers to take full adva
 It's very simple! If you are on a server that already has this Bot, just type **"=invite "** and Dumbot will give you two invitation links.                                      You will then just have to follow the steps listed by this link and that's it!
 
 **Otherwise, just click here :** [Click Here](https://discord.com/oauth2/authorize?client_id=786972690405523518&scope=bot&permissions=8200)!
+
+<p align="center">
+  <h1 align="left">Why invite Dumbot?</h1>
+</p>
+First of all **Dumbot** is a bot you won't see anywhere else. It aims to be THE best bot of all time.                                                                              Its developers are relentless and passionate and will make sure to impress you while creating new features in the bot! 
+Don't miss your chance to beautify your server by adding a little extra to it. It's now or never, go for it!
