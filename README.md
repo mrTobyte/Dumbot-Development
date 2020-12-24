@@ -32,3 +32,12 @@ It's very simple! If you are on a server that already has this Bot, just type **
 </p>
 First of all **Dumbot** is a bot you won't see anywhere else. It aims to be THE best bot of all time.                                                                              Its developers are relentless and passionate and will make sure to impress you while creating new features in the bot! 
 Don't miss your chance to beautify your server by adding a little extra to it. It's now or never, go for it!
+
+<p align="center">
+  <h1 align="left">Credits</h1>
+</p>
+
+| Programming   | Communication| Others..  |
+| ------------- |:-------------:| -----:|
+| @MR.TOBYTE#1111| labogosita#1635 | DOTAK#2332 |
+|Pijon#1415 |                  |    |
