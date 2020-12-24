@@ -18,7 +18,10 @@ It can be changed according to your wishes. However, be careful not to exceed tw
 
 Dumbot is available on all your platforms. Whether it's on your computers, laptops, phones or many others. Of course, you have to be Discord! 
 
-##How to invite Dumbot?
+<p align="center">
+  <h1 align="left">How to invite Dumbot?</h1>
+</p>
+
 You're probably wondering how to invite Dumbot on your servers to take full advantage of him?
 It's very simple! If you are on a server that already has this Bot, just type **"=invite "** and Dumbot will give you two invitation links. You will then just have to follow the steps listed by this link and that's it!
 
