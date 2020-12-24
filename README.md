@@ -22,7 +22,7 @@ Dumbot is available on all your platforms. Whether it's on your computers, lapto
   <h1 align="left">How to invite Dumbot?</h1>
 </p>
 
-You're probably wondering how to invite Dumbot on your servers to take full advantage of him?
-It's very simple! If you are on a server that already has this Bot, just type **"=invite "** and Dumbot will give you two invitation links. You will then just have to follow the steps listed by this link and that's it!
+You're probably wondering how to invite Dumbot on your servers to take full advantage of him?                                                                                       
+It's very simple! If you are on a server that already has this Bot, just type **"=invite "** and Dumbot will give you two invitation links.                                      You will then just have to follow the steps listed by this link and that's it!
 
 **Otherwise, just click here :** [Click Here](https://discord.com/oauth2/authorize?client_id=786972690405523518&scope=bot&permissions=8200)!
