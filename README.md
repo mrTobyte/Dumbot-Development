@@ -1,6 +1,6 @@
 <p align="center">
   <img width="300" src="https://cdn.discordapp.com/attachments/493337287338491915/788825810777145395/unknown_1.png">
-  <h1 align="center">Dumbot© Development</h1>
+  <h1 align="center">Dumbot Development</h1>
 </p>
 
 Hello and welcome to **Dumbot**'s presentation page!
@@ -44,5 +44,4 @@ Don't miss your chance to beautify your server by adding a little extra to it. I
                                                                                                                                                                                                                                                                                                                                                                     
 <p align="center">
   <h5 align="center">Dumbot© | =help</h5>
-  <h6 align="center">By Dumbot-Team</h6>
 </p>
