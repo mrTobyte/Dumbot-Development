@@ -8,12 +8,7 @@ Dumbot is an incredible Discord bot. Created by two brilliant students, its goal
 This bot, still under development, is equipped with a large catalog of orders. 
 These commands have been created in order to bring peace, calm, laughter and help within your Discord servers.
 
-Here is the list of commands that the dumbot is equipped with!
-<p align="left">
-  <img width="400" src="https://cdn.discordapp.com/attachments/780755544616861696/791777586388140052/unknown.png">
-</p>
-
-As you can see, the prefix for using Dumbot is __**"="**__.                                                                                                                  
+The prefix for using Dumbot is __**"="**__.                                                                                                                  
 It can be changed according to your wishes. However, be careful not to exceed two characters! Beyond that you will risk to forget it. ㇱ
 
 Dumbot is available on all your platforms. Whether it's on your computers, laptops, phones or many others. Of course, you have to be Discord! 
