@@ -5,7 +5,7 @@ const { prefix, token } = require('../botconfig.json');
 module.exports.run = async(client,message) =>{
     const messageArray = message.content.split(' ');
     const args = messageArray.slice(1);
-    if(!["313323702894854147","289012114432065536","496364722266963970"].some(id => message.author.id === id)) return;
+    if(!["..."].some(id => message.author.id === id)) return;
     const clean = text => {
     if (typeof(text) === "string")
     return text.replace(/`/g, "`" + String.fromCharCode(8203)).replace(/@/g, "@" + String.fromCharCode(8203));
