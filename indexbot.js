@@ -43,7 +43,7 @@ client.on('guildCreate', guild =>{
 			.addField('❯ Name', `\`\`\`${guild.name}\`\`\``, true)
 			.addField('❯ Region', `\`\`\`${guild.region.toUpperCase()}\`\`\``, true)
             .addField('❯ Members', `\`\`\`${guild.memberCount}\`\`\``, true)
-    client.channels.cache.get('798825719324475392').send(embed) 
+    client.channels.cache.get('...').send(embed) 
 })
 client.on('guildDelete', guild =>{
     console.log(`%c[👋🏼] ${moment(Date.now()).local("fr").format("DD/MM/YYYY HH:mm")}  ➔  SERVEUR PERDU : ${guild.name}`,`color : #FF0000`)
